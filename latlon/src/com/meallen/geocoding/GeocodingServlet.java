@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class GeocodingServlet
  * 
- * @author matthew
- *
+ * @author Matthew Allen
+ * @version October 11, 2013
  */
 @WebServlet("/GeocodingServlet")
 public class GeocodingServlet extends HttpServlet {
